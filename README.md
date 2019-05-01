@@ -10,4 +10,4 @@
  
  * https://github.com
  
- * 제가 검색을 자주하는 사이트는 [구글](google.com)입니다.
+ * 제가 검색을 자주하는 사이트는 [구글](https://google.com)입니다.
