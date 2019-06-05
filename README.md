@@ -1,15 +1,15 @@
 # JYEONY
 (HyeJeoung Choi)
 
+ * Main Works
+ Kinectic Arts
 
-# 최혜정
-* 불닭볶음면
- * YEON
- * 초콜릿을 좋아합니다
- * Do you like **French Chocolate** ?
- 
- * https://github.com
- 
+ * Connect links
+ **e-mail**      chjdas97@gmail.com
+ [**instagram**](https://www.instagram.com/hyejeoung2821/)   hyejeoung2821
+
+ **facebook**    HyeJeoung Choi
+
  * 제가 검색을 자주하는 사이트는 [구글](https://google.com)입니다.
 
 * ![texture](https://img.freepik.com/free-photo/canvas-texture-background-with-abstract-blue-colorful-art-painting_64749-1546.jpg?size=626&ext=jpg)
